@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\zizo\led-decor\resources\views\profile\delete.blade.php ENDPATH**/ ?>
